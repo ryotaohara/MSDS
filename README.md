@@ -1,2 +1,2 @@
 # MSDS
-Code repository for MSc. in Data Science 
+Code repository for Master of Science in Data Science 
